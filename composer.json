@@ -31,5 +31,12 @@
     },
     "scripts": {
         "test": "vendor/bin/phpunit"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Unicodeveloper\\Emoji\\EmojiServiceProvider"
+            ]
+        }
     }
 }
