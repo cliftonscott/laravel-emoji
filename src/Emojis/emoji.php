@@ -83,5 +83,6 @@ return [
     "pray"                      => "\u{1F64F}",
     "relaxed"                   => "\u{263A}",
     "white_check_mark"          => "\u{2705}",
-    "question"                  => "\u{2753}"
+    "question"                  => "\u{2753}",
+    "lion"                      => "\u{1F981}"
 ];
