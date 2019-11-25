@@ -36,7 +36,10 @@
         "laravel": {
             "providers": [
                 "Unicodeveloper\\Emoji\\EmojiServiceProvider"
-            ]
+            ],
+            "aliases": {
+               "Emoji": "Unicodeveloper\\Emoji\\Facades\\Emoji"
+            }
         }
     }
 }
